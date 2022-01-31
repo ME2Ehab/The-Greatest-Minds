@@ -9,7 +9,7 @@
 
 ## sources :
 ### w3.css library
-### second source is w3schools especially the HOW TO link (https://www.w3schools.com/howto/default.asp)
+### w3schools especially the HOW TO link (https://www.w3schools.com/howto/default.asp)
 ### the getBoundingClientReact source https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect.
 ### the get attribute source (helped in the syntax alot and know when to use it) - https://developer.mozilla.org/en-US/docs/Web/API/Element/getAttribute
 

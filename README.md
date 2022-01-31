@@ -1,5 +1,7 @@
 # the greatest minds
-### Mdn 
+
+### w3.css library is used in this project
+## sources:
 ### my source is w3schools especially the HOW TO link (https://www.w3schools.com/howto/default.asp)
  ### the second is the getBoundingClientReact source https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect.
  ### the third is the get attribute source (helped in the syntax alot and know when to use it) - https://developer.mozilla.org/en-US/docs/Web/API/Element/getAttribute
